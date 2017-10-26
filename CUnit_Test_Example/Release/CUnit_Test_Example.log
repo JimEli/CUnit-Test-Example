@@ -1,0 +1,11 @@
+﻿  max.c
+  max_test.c
+  Generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+CUnit.lib(Basic.obj) : warning LNK4099: PDB 'CUnit.pdb' was not found with 'CUnit.lib(Basic.obj)' or at 'C:\Users\Jim\Documents\Visual Studio 2017\Projects\CUnit_Test_Example\Release\CUnit.pdb'; linking object as if no debug info
+CUnit.lib(CUError.obj) : warning LNK4099: PDB 'CUnit.pdb' was not found with 'CUnit.lib(CUError.obj)' or at 'C:\Users\Jim\Documents\Visual Studio 2017\Projects\CUnit_Test_Example\Release\CUnit.pdb'; linking object as if no debug info
+CUnit.lib(TestDB.obj) : warning LNK4099: PDB 'CUnit.pdb' was not found with 'CUnit.lib(TestDB.obj)' or at 'C:\Users\Jim\Documents\Visual Studio 2017\Projects\CUnit_Test_Example\Release\CUnit.pdb'; linking object as if no debug info
+CUnit.lib(TestRun.obj) : warning LNK4099: PDB 'CUnit.pdb' was not found with 'CUnit.lib(TestRun.obj)' or at 'C:\Users\Jim\Documents\Visual Studio 2017\Projects\CUnit_Test_Example\Release\CUnit.pdb'; linking object as if no debug info
+CUnit.lib(Util.obj) : warning LNK4099: PDB 'CUnit.pdb' was not found with 'CUnit.lib(Util.obj)' or at 'C:\Users\Jim\Documents\Visual Studio 2017\Projects\CUnit_Test_Example\Release\CUnit.pdb'; linking object as if no debug info
+  CUnit_Test_Example.vcxproj -> C:\Users\Jim\Documents\Visual Studio 2017\Projects\CUnit_Test_Example\Release\CUnit_Test_Example.exe
