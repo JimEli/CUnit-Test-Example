@@ -7,9 +7,9 @@ Pre-compiled CUnit framework sorced from here:
   
 After running installer, follow the included directions:
 
-From Visual Studio, you can reference CUnit libraries using the CUnit property sheet %CUnitRoot%\CUnit.props. In your Visual Studio project file, an XML file ending in .vcxproj, add the following section:
-'''text
+*From Visual Studio, you can reference CUnit libraries using the CUnit property sheet %CUnitRoot%\CUnit.props. In your Visual Studio project file, an XML file ending in .vcxproj, add the following section:
+```text
   <ImportGroup Label="PropertySheets">
     <Import Project="$(CUnitRoot)\CUnit.props" />
   </ImportGroup>
-'''
+```
